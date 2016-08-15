@@ -1,0 +1,10 @@
+
+
+Get from index, to app
+
+get app to understand player numbers
+get app to accept player numbers
+
+get app to understand game selections
+  different arrays for each game
+  ignore arrays not selected
